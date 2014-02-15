@@ -1,0 +1,14 @@
+plugins: app/jekyll
+
+exclude:
+  - app
+  - bower.json
+  - Gemfile
+  - Gemfile.lock
+
+assets:
+  gzip: false
+  sources:
+    - app
+    - app/assets/stylesheets
+    - vendor

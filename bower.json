@@ -1,0 +1,8 @@
+{
+  "name": "jekyll-ember",
+  "dependencies": {
+    "ember": ">= 1.4.0",
+    "ember-data": "master",
+    "jquery-cookie": ">= 1.4.0"
+  }
+}
